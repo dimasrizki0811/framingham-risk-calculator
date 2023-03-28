@@ -1,0 +1,48 @@
+@font-face {
+    font-family: reuben;
+    src: url("../../public/Reuben\ Bold.otf");
+}
+
+@font-face {
+    font-family: biasa;
+    src: url("../../public/BrownTT-Regular.ttf");
+}
+
+
+input {
+    border-style: none;
+    text-align: center;
+    width: 50px;
+}
+
+select {
+    border-style: none;
+    text-align: center;
+    width: 50px;
+}
+
+table {
+    background-color: white;
+}
+
+.bottom-result {
+    background-color: rgb(198, 198, 198);
+}
+
+.text-danger {
+    font-size: 11px;
+    font-family: reuben;
+}
+
+.title {
+    font-family: reuben;
+    font-size: 20px;
+}
+
+td {
+    font-family: biasa;
+}
+
+.h2 {
+    font-family: reuben;
+}

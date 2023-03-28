@@ -1,0 +1,26 @@
+@font-face {
+    font-family: reuben;
+    src: url("../../public/Reuben\ Bold.otf");
+}
+
+.gambar {
+    width: 70px;
+    height: 35px;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-name {
+    font-size: 20px;
+    font-family: reuben;
+    font-weight: bold;
+}
